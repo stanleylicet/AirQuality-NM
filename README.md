@@ -17,9 +17,11 @@ Output Snapshots:
 Data Transmission Platform:
 
 Thingspeak:
+
 ![image](https://github.com/stanleylicet/AirQuality-NM/assets/113659946/3dd99545-34b2-4adb-9211-90acb79e66d7)
 
 Output Data Recorded:
+
 ![image](https://github.com/stanleylicet/AirQuality-NM/assets/113659946/74e16d4a-19d9-41fb-9f1c-45712b87e7ce)
 
 
